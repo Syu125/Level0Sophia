@@ -8,9 +8,6 @@ public class ForLoopGauntlet {
 			System.out.println(j);
 			k=k+j;
 			j=k+j;
-			
-			
-			
 		}
 			}
 			
